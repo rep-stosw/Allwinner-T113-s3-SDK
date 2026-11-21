@@ -1,0 +1,3 @@
+/*
+Allwinner BareMetal SDK Stub file
+*/
