@@ -3,10 +3,10 @@ Ultra-fast bare-metal SDK in C/C++ &amp; Assembly for Allwinner T113-s3 (sun8iw2
 
 # Allwinner T113-s3 & HiFi4 DSP BareMetal SDK
 
-![Architecture](https://shields.io)
-![SoC](https://shields.io)
-![Language](https://shields.io)
-![Boot Time](https://shields.io)
+![Architecture](https://img.shields.io/badge/Architecture-Dual--Core_Cortex--A7_%2B_HiFi4_DSP-blue)
+![SoC](https://img.shields.io/badge/SoC-Allwinner_T113--s3_(sun8iw20)-orange)
+![Language](https://img.shields.io/badge/Language-C_%2F_C%2B%2B_%2F_Assembly-brightgreen)
+![Boot Time](https://img.shields.io/badge/Boot_Time-Sub--Second-red)
 
 **Ultra-fast, high-performance bare-metal framework written from scratch in C, C++, and Assembly for the Allwinner T113-s3 SoC (`sun8iw20p1`) and its integrated Cadence Tensilica HiFi4 DSP co-processor.**
 
@@ -14,13 +14,21 @@ Designed for mission-critical embedded systems requiring sub-second boot times, 
 
 ## Real Hardware Demonstration
 
-### 1. Hardware Demo 1
+### 1. Hardware Demo 1 (Display Engine)
 
-https://github.com
+https://github.com/user-attachments/assets/7e5ade3d-d5de-422d-a595-e8a08dbe8aaf
 
-### 2. Hardware Demo 2
+### 2. Hardware Demo 2 (G2D)
 
-https://github.com
+https://github.com/user-attachments/assets/9db50a86-7444-453a-8564-3dd9da2c463c
+
+### 3. Hardware Demo 3 (H264 Decoder)
+
+https://github.com/user-attachments/assets/80038388-ad1b-48b2-b38a-6922e126490c
+
+### 4. Hardware Demo 4 (Analog Camera CVBS)
+
+https://github.com/user-attachments/assets/69b30288-c9e3-4708-9033-25cc6e240b87
 
 ---
 
